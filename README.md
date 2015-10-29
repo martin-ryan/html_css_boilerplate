@@ -1,2 +1,3 @@
-# html_css_boilerplate
-My HTML/CSS template
+-- HTML & CSS Boilerplate --
+
+A great place to start.
